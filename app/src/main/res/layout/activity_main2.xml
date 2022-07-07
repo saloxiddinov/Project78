@@ -40,7 +40,7 @@
             android:textStyle="bold" />
 
         <EditText
-            android:id="@+id/editTextTextPersonName2"
+            android:id="@+id/l_email"
             android:layout_width="match_parent"
             android:layout_height="50dp"
 
@@ -64,7 +64,7 @@
             android:textStyle="bold" />
 
         <EditText
-            android:id="@+id/editTextTextPersonName"
+            android:id="@+id/l_parol"
             android:layout_width="match_parent"
             android:layout_height="50dp"
 
@@ -176,6 +176,15 @@
             android:textColor="#FFFFFF"
             android:textSize="24sp"
             android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/alert1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Xato"
+            android:textColor="#FF1100"
+            android:textSize="20sp"
+            android:visibility="invisible" />
     </LinearLayout>
 
     <TextView
@@ -187,6 +196,7 @@
         android:textColor="#FFFFFF"
         android:textSize="30sp"
         android:textStyle="bold"
+        android:visibility="visible"
         app:layout_constraintBottom_toTopOf="@+id/linearLayout"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="@+id/imageView3"

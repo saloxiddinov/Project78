@@ -3,11 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/PC675/AndroidStudioProjects/Project78/app/src/main/res/drawable/button_blue_border.xml" value="0.263" />
         <entry key="..\:/Users/PC675/AndroidStudioProjects/Project78/app/src/main/res/drawable/edittext_background.xml" value="0.263" />
         <entry key="..\:/Users/PC675/AndroidStudioProjects/Project78/app/src/main/res/drawable/orange_button_barkground.xml" value="0.263" />
         <entry key="..\:/Users/PC675/AndroidStudioProjects/Project78/app/src/main/res/drawable/white_background.xml" value="0.263" />
         <entry key="..\:/Users/PC675/AndroidStudioProjects/Project78/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Users/PC675/AndroidStudioProjects/Project78/app/src/main/res/layout/activity_main2.xml" value="0.23157894736842105" />
+        <entry key="..\:/Users/PC675/AndroidStudioProjects/Project78/app/src/main/res/layout/activity_main3.xml" value="0.23157894736842105" />
       </map>
     </option>
   </component>
